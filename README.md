@@ -15,5 +15,6 @@ In the future, I think it would be helpful to manually filter the videos to only
 The results are pretty similar to what I expected honestly, so I am not that surprised with the wordclouds. However with some of the words I definitely made sure to look them up to see what might be causing higher frequency of more odd words, which made me more informed on recent events.
 
 
-<img src='/assets/trump.png'>
-<img src='/assets/biden.png'>
+<img src='/img/trump.png'>
+<img src='/img/biden.png'>
+<a href='https://github.com/noah-rarick/wordcloud/tree/main/assets'>CSV's</a>
